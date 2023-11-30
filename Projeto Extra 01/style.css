@@ -1,0 +1,60 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding:0;
+
+
+
+
+}
+
+
+
+
+#main{ width: 626px;
+margin:auto}
+
+body {text-align: center;}
+
+h1{font-family: Dosis;
+  font-size: 32px;
+  line-height: normal;
+  color:#3F3D56;
+  font-weight: normal;
+  margin: 0 auto 16px;}
+
+h1 span{color:#EE24FF;
+font-weight: bold;}
+
+#mulherzinha {margin-bottom: 32px;
+margin-top: 64px;}
+
+p span, a{ font-weight: bold;
+  color:#3F3D56}
+
+p{color:#828282;
+line-height: 22px;}
+
+#LF {line-height: normal;
+  margin: 0 auto 64px;}
+
+  a{margin: 0 auto 145px;}
+
+p, a {font-family:'Open Sans', sans-serif;
+  font-size: 15px;}
+
+
+#PT{
+  width: 540px;
+margin: 0 auto 32px}
+
+#line{width: 391px;
+height: 0px;
+border: 1px solid #ECEFF2;
+margin: 0 auto 16px;}
+
+a + a {margin-left: 42px;}
+
+#wave {  margin: 40.83px auto 0;
+  display: block;
+  width: 100%;}
